@@ -6,3 +6,6 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/469-theseeker/469-theseeker/blob/b7876720ed6942155c24f6dd0ef3e0bf0a2de1f3/IMG_5256.webp"Image Description">
+</p>
