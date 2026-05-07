@@ -5,6 +5,9 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tdteh6udkuv5qht6pyerkwq6ua&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false">
   </a>
 </p>
+<p align="center">
+  <img src=""Image Description">
+</p> 
 
 <p align="center">
   <img src="https://github.com/469-theseeker/469-theseeker/blob/b7876720ed6942155c24f6dd0ef3e0bf0a2de1f3/IMG_5256.webp"Image Description">
