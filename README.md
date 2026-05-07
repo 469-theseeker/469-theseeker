@@ -1,4 +1,4 @@
-![Image Alt]()![Image Alt]
+![Image Alt](https://github.com/469-theseeker/469-theseeker/blob/780ba6650c6cd72c099b1606c2873193697f0edb/IMG_5257.png)
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tdteh6udkuv5qht6pyerkwq6ua&redirect=true">
